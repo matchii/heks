@@ -1,3 +1,3 @@
 # heks
-Example heksagonal architecture implementation in Symfony 3
+Przykładowa implementacja architektury heksagonalnej w Symfony 3
 =======
